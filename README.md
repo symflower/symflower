@@ -2,16 +2,18 @@
 
 ## What is Symflower?
 
-Whether you’re using LLMs or not, Symflower helps you write better software. By pairing up robust static, dynamic and symbolic analyses with vastly creative and adaptable LLMs, any scenario can be implemented fast with high quality.
+Symflower helps you build better software by pairing static, dynamic and symbolic analyses with LLMs. The robustness of deterministic analyses combined with the creativity of LLMs allows for higher quality and rapid software development.
 
-Works where you are:
+**Works where you are:**
+
 - In your console and CI via CLI
 - As component in your application and SOA via LSP
 - In your VS Code-based editors: VS Code and Cursor
 - In your IntelliJ platform IDEs: Intellij IDEA, Android Studio, GoLand
 - As a drop-in proxy for LLM inference endpoints
 
-Make LLMs better:
+**Make LLMs better:**
+
 - [Find the best and cheapest model for your programming language, framework and use case](https://docs.symflower.com/docs/symflower-LLM/DevQualityEval/)
 - [Create evaluations for your environments, workflows and requirements](https://symflower.com/en/)
 - [Run benchmarks continuously to make sure your evaluation still works and supports the latest models](https://symflower.com/en/)
@@ -26,14 +28,16 @@ Make LLMs better:
 - Track LLM-generated changes in code bases for liability, security and compliance
 - LLM inference endpoints in your own infrastructure to eliminate external dependencies
 
-Make your editor better:
+**Make your editor better:**
+
 - [Generate smart test templates](https://docs.symflower.com/docs/test-templates/test-template-tutorial/) with imports, annotations, object initializations, function calls, asserts, and more
 - Automate the generation of complete test suites [via symbolic execution](https://docs.symflower.com/docs/test-suites/test-suite-tutorial/) or [via LLMs](https://docs.symflower.com/docs/test-suites/test-generation-LLM/)
 - Post-processing with [linting](https://docs.symflower.com/docs/symflower-LLM/symflower-lint/) and [code repair](https://docs.symflower.com/docs/symflower-LLM/symflower-fix/) to improve code quality
 - Efficiently [create](https://docs.symflower.com/docs/managing-tests/create-test-code-lens/), [duplicate](https://docs.symflower.com/docs/managing-tests/duplicate-test-code-lens/), and [review](https://docs.symflower.com/docs/managing-tests/test-review-workflow/) tests
 - Automatically [identify uncaught exceptions](https://docs.symflower.com/docs/test-backed-diagnostics/) in your source code in real time with a tests to reproduce them
 
-Make your development process better:
+**Make your development process better:**
+
 - [Programming language-agnostic tooling for a streamlined development workflow](https://docs.symflower.com/docs/symflower-LLM/symflower-test/)
 - [Rapid testing both locally and in your CI with test impact analysis](https://docs.symflower.com/docs/symflower-LLM/symflower-test-runner/)
 - [Static analysis and automated fixes to improve low-quality and erroneous code](https://docs.symflower.com/docs/symflower-LLM/symflower-fix/)
@@ -46,7 +50,7 @@ Make your development process better:
 
 ## Documentation
 
-Check out [Symflower’s documentation](https://docs.symflower.com/) (with product overviews, code examples, and tutorials) and our [changelog](https://docs.symflower.com/docs/changelog/).
+Check out [Symflower's documentation](https://docs.symflower.com/) (with product overviews, code examples, and tutorials) and our [changelog](https://docs.symflower.com/docs/changelog/).
 
 ## Feedback
 
