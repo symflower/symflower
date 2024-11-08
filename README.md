@@ -23,6 +23,7 @@ Symflower helps you build better software by pairing static, dynamic and symboli
 - [Flag and fix low-quality generated source code](https://docs.symflower.com/docs/symflower-LLM/symflower-lint/)
 - Help LLMs generate usable tests via [smart test templates](https://docs.symflower.com/docs/test-templates/)
 - [Automatically run just the right tools for your environment](https://docs.symflower.com/docs/symflower-LLM/symflower-test/)
+- [Use and convert to the right dependencies for your project](https://docs.symflower.com/docs/symflower-LLM/symflower-migrate/)
 - Rapid testing of LLM-generated changes via [test impact analysis](https://docs.symflower.com/docs/symflower-LLM/symflower-test-runner/)
 - Fine-tuning for your DSL (domain specific language)
 - Track LLM-generated changes in code bases for liability, security and compliance
@@ -45,6 +46,11 @@ Symflower helps you build better software by pairing static, dynamic and symboli
 - [Source code transpilation across programming languages](https://symflower.com/en/company/blog/2024/transpilation-with-llms/)
 - Migrating to other programming languages, frameworks and libraries
 - [Analyze runtime performance in sequential and concurrent applications](https://docs.symflower.com/docs/symflower-LLM/symflower-trace/)
+
+## Migrate legacy code
+
+- [Migrate code, packages, dependencies and whole projects automatically](https://docs.symflower.com/docs/symflower-LLM/symflower-migrate/)
+- [Automatic fixes for linting problems](https://docs.symflower.com/docs/symflower-LLM/symflower-lint/)
 
 **Can you think of additional tooling that would improve your daily (LLM-assisted) software development life? [Let us know how we can help you!](https://symflower.com/en/company/contact/)**
 
