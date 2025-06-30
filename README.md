@@ -56,8 +56,4 @@ Symflower helps you build better software by pairing static, dynamic and symboli
 
 ## Documentation
 
-Check out [Symflower's documentation](https://docs.symflower.com/) (with product overviews, code examples, and tutorials) and our [changelog](https://docs.symflower.com/docs/changelog/).
-
-## Feedback
-
-To provide feedback about features you want to see and problems you have discovered, please use [our community issue tracker](https://github.com/symflower/symflower/issues). For general discussions and questions, use the [community discussion board](https://github.com/symflower/symflower/discussions).
+Check out [Symflower's documentation](https://docs.symflower.com/) (with product overviews, code examples, and tutorials).
